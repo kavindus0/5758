@@ -30,6 +30,8 @@ function swiperAnimation() {
         spaceBetween: 100,
     });
 }
+
+// menu animation eka ayinkrnna
 function menuAnimation() {
 
     var menu = document.querySelector("nav h3")
@@ -49,6 +51,8 @@ function menuAnimation() {
     })
 }
 
+///
+
 function loaderAnimation() {
     var loader = document.querySelector("#loader")
     setTimeout(function () {
@@ -58,5 +62,5 @@ function loaderAnimation() {
 
 swiperAnimation()
 page4Animation()
-menuAnimation()
+
 loaderAnimation()
