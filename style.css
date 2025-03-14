@@ -297,10 +297,10 @@ nav h3 {
     display: block;
 }
 
-#elem-container a:hover .elem {
+/* #elem-container a:hover .elem {
     transform: scale(1.05);
     transition: transform 0.3s ease;
-}
+} */
 .elem {
     height: 150px;
     width: 100%;
@@ -313,11 +313,11 @@ nav h3 {
 }
 .elem h2 {
     font-size: 3vw;
-    text-align: center;
+  
     position: relative;
     z-index: 9;
 }
-/* 
+
 .elem .overlay {
     height: 100%;
     width: 100%;
@@ -330,8 +330,6 @@ nav h3 {
 .elem:hover .overlay {
     top: 0;
 }
- */
-
 
 
 
