@@ -293,6 +293,7 @@ nav h3 {
 }
 #elem-container a {
     text-decoration: none;
+    text-align:center;
     color: inherit;
     display: block;
 }
