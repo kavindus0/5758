@@ -317,6 +317,7 @@ nav h3 {
     position: relative;
     z-index: 9;
 }
+/* 
 .elem .overlay {
     height: 100%;
     width: 100%;
@@ -329,7 +330,7 @@ nav h3 {
 .elem:hover .overlay {
     top: 0;
 }
-
+ */
 
 
 
