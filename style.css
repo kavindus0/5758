@@ -127,7 +127,7 @@ nav h3 {
     justify-content: space-between;
     border-bottom: 1px solid #0000003c;
     padding-bottom: 2.5vw;
-    background-image: url('path/to/your/image.jpg'); /* Replace with your image path */
+    background-image: url('https://ekel.kln.ac.lk/pluginfile.php/1/theme_moove/loginbgimg/1735893792/wekel.PNG'); /* Replace with your image path */
     background-size: cover; /* Cover the entire div */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-position: center; /* Center the image */
