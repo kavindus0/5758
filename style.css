@@ -293,7 +293,6 @@ nav h3 {
 }
 #elem-container a {
     text-decoration: none;
-    text-align:center;
     color: inherit;
     display: block;
 }
@@ -314,6 +313,7 @@ nav h3 {
 }
 .elem h2 {
     font-size: 3vw;
+    text-align:center;
     position: relative;
     z-index: 9;
 }
