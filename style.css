@@ -958,8 +958,9 @@ nav h3 {
 
 .masked-text {
     color: transparent;
-    background-image: url('https://images.unsplash.com/photo-1732535725600-f805d8b33c9c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); 
-    background-size: 200%; /* Enlarged for smooth animation */
+    background-image: url('https://res.cloudinary.com/du5tkpcut/image/upload/v1742117938/WhatsApp_Image_2025-03-14_at_7.54.07_AM_fxe7z2.jpg');
+    background-size: 200%;
+    /* Enlarged for smooth animation */
     background-position: 0 50%;
     background-clip: text;
     -webkit-background-clip: text;
@@ -971,6 +972,7 @@ nav h3 {
     0% {
         background-position: 0 50%;
     }
+
     100% {
         background-position: 100% 50%;
     }
