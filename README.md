@@ -57,4 +57,4 @@ For any inquiries or suggestions regarding this website, please contact the 58th
 
 ## License
 
-© 2023 58th Science Batch, University of Kelaniya. All rights reserved.
+© 2025 57th Science Batch, University of Kelaniya. All rights reserved.
