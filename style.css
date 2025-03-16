@@ -957,10 +957,10 @@ nav h3 {
 }
 
 .masked-text {
-    color: transparent;
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/1600px-A_black_image.jpg?20201103073518');
+    color: white;
+     /*background-image: url('');
     background-size: 200%;
-    /* Enlarged for smooth animation */
+    Enlarged for smooth animation */
     background-position: 0 50%;
     background-clip: text;
     -webkit-background-clip: text;
